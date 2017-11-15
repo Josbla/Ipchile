@@ -21,7 +21,7 @@
         <meta property="og:image" content="https://animeflv.net/uploads/animes/screenshots/2747/13/3.jpg">
         <meta property="og:site_name" content="AnimeFLV">
         <meta property="og:description" content="Estoy viendo Enmusubi no Youko-chan Episodio 13 Completo en Calidad HD, completamente Gratis!">
-        <link rel="canonical" href="https://animeflv.net/ver/47193/enmusubi-no-youko-chan-13">
+        <link rel="canonical" href="https://animeflv.net/ver/47193/enmusubi-no-youko-chan-12">
         <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.animeflv.net/ver/47193/enmusubi-no-youko-chan-13">
         <link href="<c:url value="/resources/css/css"/>" rel="stylesheet" type="text/css">
         <link href="<c:url value="/resources/css/css.css"/>" rel="stylesheet" type="text/css">
