@@ -138,13 +138,13 @@
                             </nav>
 
                             <div class="CapiTop">
-                                <h1 class="Title">Gatito Adorable!</h1>
-                                <h2 class="SubTitle">Episodio 7</h2>
+                                <h1 class="Title">Full Metal Alchemist Brotherhood</h1>
+                                <h2 class="SubTitle">Opening</h2>
                             </div>
 
 
                             <ul class="CapiTnv nav nav-pills" role="tablist" data-toggle="pills">
-                                <li role="presentation" data-id="0" data-toggle="tooltip" title="Clup" class="active"><a href="https://youtu.be/1T_U8gkTLoQ#option0">Opción <span>1</span></a></li>
+                                <li role="presentation" data-id="0" data-toggle="tooltip" title="Clup" class="active"><a href="https://youtu.be/QJHaXGhBBbc">Opción <span>1</span></a></li>
                                 <li role="presentation" data-id="1" data-toggle="tooltip" title="Izanagi"><a href="https://youtu.be/AkQOYYIxd_I#option1">Opción <span>2</span></a></li>
                                 <li role="presentation" data-id="2" data-toggle="tooltip" title="" data-original-title="RV"><a href="https://youtu.be/AkQOYYIxd_I#option2">Opción <span>3</span></a></li>
                                 <li role="presentation" data-id="3" data-toggle="tooltip" title="" data-original-title="Mango"><a href="https://youtu.be/AkQOYYIxd_I#option3">Opción <span>4</span></a></li>
@@ -410,7 +410,7 @@
             var in_library = 0;
             var latest_seen = 0;
             var video = [];
-            video[0] = '<iframe width="560" height="315" frameborder="0" src="https://s3.animeflv.com/direct.php?v=https://youtu.be/1T_U8gkTLoQ" scrolling="no" allowfullscreen></iframe>';
+            video[0] = '<iframe width="560" height="315" frameborder="0" src="https://s3.animeflv.com/direct.php?v=https://youtu.be/QJHaXGhBBbc" scrolling="no" allowfullscreen></iframe>';
             video[1] = '<iframe width="560" height="315" frameborder="0" src="https://s3.animeflv.com/embed.php?key=XN3KY&server=https://youtu.be/AkQOYYIxd_I" scrolling="no" allowfullscreen></iframe>';
             video[2] = '<iframe width="560" height="315" frameborder="0"  src="https://www.rapidvideo.com/e/youtu.be/AkQOYYIxd_I=720p" scrolling="no" allowfullscreen></iframe>';
             video[3] = '<iframe src="https://streamango.com/embed/youtu.be/AkQOYYIxd_I/" width="560" height="315" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" frameborder="0"></iframe>';

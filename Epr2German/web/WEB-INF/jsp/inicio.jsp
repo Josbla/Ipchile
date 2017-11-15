@@ -17,6 +17,12 @@
         <meta property="og:site_name" content="AnimeFLV">
         <link rel="canonical" href="https://animeflv.net/">
         <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.animeflv.net/">
+        
+
+
+        
+        
+        
         <link href="<c:url value="/resources/css/css.css"/>" rel="stylesheet" type="text/css">
         <link href='<c:url value='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic'/>' rel='stylesheet' type='text/css'>
         <link href="<c:url value="/resources/css/font-awesome.css" />" rel="stylesheet">
@@ -108,8 +114,10 @@
                                     <ul class="Menu">
                                         <li class="Current"><a href="https://animeflv.net/">INICIO</a></li>
                                         <li><a href="https://animeflv.net/browse">ANIMES</a></li>
-                                        <li class="youtube"><a target="_blank" href="https://www.youtube.com/c/kudasai">Canal Youtube</a></li>
+                                       
                                         <li class="kudasai"><a target="_blank" href="https://somoskudasai.com/">Noticias</a></li>
+                                        <li class="youtube"><a target="_blank" href="contacto.html" >Contacto</a></li>
+                                        
                                     </ul>
                                     <ul class="ListSocial BFixed">
                                         <li><a href="https://www.facebook.com/AnimeFLV/" target="_blank" class="fa-facebook"></a></li>
@@ -119,9 +127,9 @@
                         </div>
                     </div>
                 </div>
-               <div class="anun">Recomienda AnimeFLV en foros, blogs, youtube! Recuerda que somos tu fuente de Gatos Online Sub Español en HD&nbsp;&nbsp;&nbsp;
+               <div class="anun">Recomienda FakeAnime, somos la mejor página de animé de todo IpChile&nbsp;&nbsp;&nbsp;
                 </div>
-                <div class="Bot hidden-xs hidden-sm">
+              <!--  <div class="Bot hidden-xs hidden-sm">
                     <div class="Container">
                         <div class="SldrHmCn CX Row CFluid Sp20 NMb">
                             <div>
@@ -261,7 +269,7 @@
                                         </span>
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -271,7 +279,7 @@
             <div class="Body">
                 <div class="Container">
                     <div class="AnflvTl">
-                        <h1><strong>AnimeFLV</strong> tu fuente de gatos online gratis en HD</h1>
+                        <h1><strong>AnimeFLV</strong> tu fuente de animé online gratis en HD</h1>
                     </div>
                     <div class="BX Row BFluid Sp20">
 
@@ -283,7 +291,7 @@
                                 <div class="Bod">
                                     <div class="AnimeCover">
                                         <div class="Image">
-                                            <figure><a href="https://animeflv.net/anime/1414/fate-kaleid-liner-prisma-illya-zwei"><img src="<c:url value="/resources/img/1jere.jpg"/>" alt="Fate/Kaleid Liner Prisma☆Illya Zwei!"></a><figcaption><span class="Title"><strong>Gato Cara larga</strong></span> <span class="Type Ani">Es serio!</span></figcaption></figure>
+                                            <figure><a href="https://animeflv.net/anime/1414/fate-kaleid-liner-prisma-illya-zwei"><img src="<c:url value="/resources/img/shigatsuwa.jpg"/>" alt="shigatsuwa"></a><figcaption><span class="Title"><strong>Shigatsu Wa Kimi No Uso</strong></span></figcaption></figure>
                                         </div>
                                         <div class="Synopsis">
                                             <p>
@@ -355,65 +363,57 @@
                             <ul class="ListEpisodios AX Rows A06 C04 D03">
                                 <li>
                                     <a href="video1.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/2jere.jpg"/>" alt="Enmusubi no Youko-chan"></span>
-                                        <span class="Capi">Este gatito, está furioso</span>
-                                        <strong class="Title">Gato</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/barakamon.jpg"/>" alt="Barakamon"></span>
+                                        <strong class="Title">Barakamon</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="video2.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/3jere.jpg"/>" alt="Boku no Hero Academia 2nd Season"></span>
-                                        <span class="Capi">Es una gatita</span>
-                                        <strong class="Title">Aqui no estaba Boku</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/bokudake.png"/>" alt="Boku Dake Ga Inai Machi"></span>
+                                        <strong class="Title">Boku Dake Ga Inai Machi</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="video3.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/4jere.jpg"/>" alt="Jigoku Shoujo: Yoi no Togi"></span>
-                                        <span class="Capi">Gato Rubio</span>
-                                        <strong class="Title">Hola Miaundo</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/bokunohero.jpg"/>" alt="Boku No Hero"></span>
+                                        <strong class="Title">Boku No Hero</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="video4.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/5jere.jpg"/>" alt="Shoukoku no Altair"></span>
-                                        <span class="Capi">Otra gatita</span>
-                                        <strong class="Title">Les aseguramos risas aquí</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/bokunohero2.jpg"/>" alt="Boku No Hero season 2"></span>
+                                        <span class="Capi">Temporada 2</span>
+                                        <strong class="Title">Boku No Hero</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="video5.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/6jere.jpg"/>" alt="18if"></span>
-                                        <span class="Capi">Familia de mininos</span>
-                                        <strong class="Title">Aqui verán gatitos!</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/digimon.jpg"/>" alt="digimon"></span>
+                                        <strong class="Title">Digimon</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="video6.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/7jere.jpg"/>" alt="Shingeki no Bahamut: Virgin Soul"></span>
-                                        <span class="Capi">Nekos</span>
-                                        <strong class="Title">Shingeki no Nekos</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/fairytail.png"/>" alt="airytail"></span>
+                                        <strong class="Title">Fairytail</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="video7.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/8jere.jpg"/>" alt="Nobunaga no Shinobi: Ise Kanegasaki-hen"></span>
-                                        <span class="Capi">A la Britanhy</span>
-                                        <strong class="Title">No le gustan :(</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/fatezero.jpg"/>" alt="fatezero"></span>
+                                        <strong class="Title">Fate Zero</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="video8.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/12jere.jpg"/>" alt="Jikan no Shihaisha"></span>
-                                        <span class="Capi">Gato Carlitos</span>
-                                        <strong class="Title">Este gato es del campo</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/fullmetal.jpg"/>" alt="fullmetal"></span>
+                                        <strong class="Title">Fullmetal Alchemist</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="video9.php" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/9jere.jpg"/>" alt="Made in Abyss"></span>
-                                        <span class="Capi">Gato Erick</span>
-                                        <strong class="Title">Es informatico</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/inuyasha.jpg"/>" alt="inuyasha"></span>
+                                        <strong class="Title">Inuyasha</strong>
                                     </a>
                                 </li>
                                 <li>
