@@ -21,11 +21,10 @@
 
 
         
+        <link href="<c:url value="/resources/css/flexslider.css" />" rel="stylesheet" type="text/css">
+
+
         
-        
-        <link href="<c:url value="/resources/css/css.css"/>" rel="stylesheet" type="text/css">
-        <link href='<c:url value='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic'/>' rel='stylesheet' type='text/css'>
-        <link href="<c:url value="/resources/css/font-awesome.css" />" rel="stylesheet">
         <link href="<c:url value="/resources/css/css.css" />" rel="stylesheet">
         <link href="<c:url value="/resources/css/bootstrap.css" />" rel="stylesheet">
         <link href="<c:url value="/resources/css/main.css" />" rel="stylesheet">
@@ -116,7 +115,7 @@
                                         <li><a href="https://animeflv.net/browse">ANIMES</a></li>
                                        
                                         <li class="kudasai"><a target="_blank" href="https://somoskudasai.com/">Noticias</a></li>
-                                        <li class="youtube"><a target="_blank" href="contacto.html" >Contacto</a></li>
+                                        <li class="youtube"><a target="_blank" href="correo.html" >Contacto</a></li>
                                         
                                     </ul>
                                     <ul class="ListSocial BFixed">
@@ -129,157 +128,27 @@
                 </div>
                <div class="anun">Recomienda FakeAnime, somos la mejor página de animé de todo IpChile&nbsp;&nbsp;&nbsp;
                 </div>
-              <!--  <div class="Bot hidden-xs hidden-sm">
-                    <div class="Container">
-                        <div class="SldrHmCn CX Row CFluid Sp20 NMb">
-                            <div>
-                                <ul class="nav nav-tabs ClFx ListAnTbNvTp">
-                                    <li class="active"><a data-toggle="tab" href="https://animeflv.net/#tbflw" class="fa-check">Siguiendo</a></li>
-                                    <li><a data-toggle="tab" href="#tbfvr" class="fa-heart">Favoritos</a></li>
-                                    <li><a data-toggle="tab" href="https://animeflv.net/#tbvlg" class="fa-bookmark">Ver luego</a></li>
-                                </ul>
-                                <div class="tab-content AnTbCnTp">
-                                    <div id="tbflw" class="tab-pane fade in active">
-                                        <a href="https://animeflv.net/perfil/josbla/siguiendo" class="Button Sm">VER MAS</a>
-                                        <ul class="ListAnmsTp ClFx">
-                                            <li>
-                                                <a href="https://animeflv.net/anime/4787/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/2782.jpg" />" alt="">
-                                                        <figcaption>Bienvenidos</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/4782/isekai-wa-smartphone-to-tomo-ni">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/2777.jpg" />" alt="">
-                                                        <figcaption>Aqui se verán muchos gatos</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/2465/fatekaleid-liner-prismaillya-3rei">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/2503.jpg" />" alt="">
-                                                        <figcaption>Fate/ nada de fate, gatos!!!</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/3693/inou-battle-wa-nichijou-kei-no-naka-de">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/1629.jpg" />" alt="">
-                                                        <figcaption>Inou-Battle wa Nekos</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/761/fate-zero-ii">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/773.jpg" />" alt="">
-                                                        <figcaption>Fate/Neko 2</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/3887/fate-zero">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/638.jpg" />" alt="">
-                                                        <figcaption>Fate/Miau</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div id="tbfvr" class="tab-pane fade">
-                                        <a href="https://animeflv.net/perfil/josbla/favoritos" class="Button Sm">VER MAS</a>
-                                        <ul class="ListAnmsTp ClFx">
-                                            <li>
-                                                <a href="https://animeflv.net/anime/4787/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/2782.jpg"/>" alt="">
-                                                        <figcaption>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/4750/nana-maru-san-batsu">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/2761.jpg"/>" alt="">
-                                                        <figcaption>Nana Maru San Batsu</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/2465/fatekaleid-liner-prismaillya-3rei">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/2503.jpg"/>" alt="">
-                                                        <figcaption>Fate/kaleid liner Prisma☆Illya 3rei!!</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/3965/rezero-kara-hajimeru-isekai-seikatsu">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/2433.jpg"/>" alt="">
-                                                        <figcaption>Re:Zero kara Hajimeru Isekai Seikatsu</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/3693/inou-battle-wa-nichijou-kei-no-naka-de">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/1629.jpg"/>" alt="">
-                                                        <figcaption>Inou-Battle wa Nichijou-kei no Naka de</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://animeflv.net/anime/3887/fate-zero">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/638.jpg"/>" alt="">
-                                                        <figcaption>Fate/Zero</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div id="tbvlg" class="tab-pane fade">
-                                        <a href="https://animeflv.net/perfil/josbla/lista_espera" class="Button Sm">VER MAS</a>
-                                        <ul class="ListAnmsTp ClFx">
-                                            <li>
-                                                <a href="https://animeflv.net/anime/2350/oshiete-galko-chan">
-                                                    <figure>
-                                                        <img src="<c:url value="/resources/img/2387.jpg"/>" alt="">
-                                                        <figcaption>Oshiete! Galko-chan</figcaption>
-                                                    </figure>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="CFixed">
-                                <div class="Dvr300">
-                                    <div class="fb-page fb_iframe_widget" data-href="<c:url value="https://www.facebook.com/AnimeFLV/"/>" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=156149244424100&amp;container_width=0&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FAnimeFLV%2F&amp;locale=es_LA&amp;sdk=joey&amp;show_facepile=true&amp;small_header=false">
-                                        <span style="vertical-align: bottom; width: 340px; height: 214px;">
-                                            <iframe name="f94b3d822acf8" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:page Facebook Social Plugin" src="<c:url value="WEB-INF/html/page.jsp"/>" style="border: none; visibility: visible; width: 340px; height: 214px;" class="">
-                                            </iframe>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>-->
                         </div>
-                    </div>
-                </div>
+                                    <center>
+                                        <div class="slider">
+                                        <ul>
+                                            
+                                            <li><img src="<c:url value="/resources/img/shigatsuwa.jpg"/>"alt=""></li>
+                                            <li><img src="<c:url value="/resources/img/inuyasha.jpg"/>"alt=""></li>
+                                            <li><img src="<c:url value="/resources/img/fullmetal.jpg"/>"alt=""></li>
+                                            <li><img src="<c:url value="/resources/img/digimon.jpg"/>"alt=""></li>
+                                        </ul>
+                                        </div>
+                                    </center>    
+                     
+                
             </header>
 
 
             <div class="Body">
                 <div class="Container">
                     <div class="AnflvTl">
-                        <h1><strong>AnimeFLV</strong> tu fuente de animé online gratis en HD</h1>
+                        <h1><strong>FakeFlv</strong> tu fuente de animé online gratis y de IpChile</h1>
                     </div>
                     <div class="BX Row BFluid Sp20">
 
@@ -287,7 +156,7 @@
 
                             <div class="Wdgt Anime AnimeDia">
                                 <input type="checkbox" hidden="hidden" id="WdgtLink-AnimeDia">
-                                <div class="Top fa-star"><strong>GATITO DEL DIA</strong> <label for="WdgtLink-AnimeDia" class="WdgtLink fa-chevron-down"></label></div>
+                                <div class="Top fa-star"><strong>Serie Del Dia</strong> <label for="WdgtLink-AnimeDia" class="WdgtLink fa-chevron-down"></label></div>
                                 <div class="Bod">
                                     <div class="AnimeCover">
                                         <div class="Image">
@@ -296,16 +165,16 @@
                                         <div class="Synopsis">
                                             <p>
                                                 <strong>SINOPSIS</strong>
-                                            </p><div class="Description ScrlV mCustomScrollbar _mCS_1 mCS_no_scrollbar"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: none;" tabindex="0"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">Este gatito, se ve mas flaco de lo que debiera ser. Es fotogénico y la pantalla lo hace ver más largo</div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical mCSB_scrollTools_onDrag_expand" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; height: 0px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+                                            </p><div class="Description ScrlV mCustomScrollbar _mCS_1 mCS_no_scrollbar"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: none;" tabindex="0"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">Kousei Arima es un prodigio en el piano y cualquiera dentro del mundo de la música conoce su nombre; pero cuando su madre y también maestra fallece, se desmorona en la mitad de un recital y desde ese momento es incapaz de oír el sonido de su piano aunque no tenga problemas de oído.</div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical mCSB_scrollTools_onDrag_expand" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; height: 0px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
                                             <p></p>
                                         </div>
                                     </div>
                                     <div class="Tags">
                                         <strong>GENEROS</strong>
-                                        <a href="https://animeflv.net/browse?genre=accion">Gatos</a>
-                                        <a href="https://animeflv.net/browse?genre=comedia">Mas gatos!</a>
-                                        <a href="https://animeflv.net/browse?genre=fantasia">Muchos gatos!</a>
-                                        <a href="https://animeflv.net/browse?genre=magia">Nekos :)</a>
+                                        <a href="https://animeflv.net/browse?genre=accion">Drama</a>
+                                        <a href="https://animeflv.net/browse?genre=comedia">Romance</a>
+                                        <a href="https://animeflv.net/browse?genre=fantasia">Música</a>
+                                        <a href="https://animeflv.net/browse?genre=magia">Escolar</a>
                                     </div>
                                 </div>
                             </div>
@@ -348,14 +217,14 @@
 
                             <div id="M105140ScriptRootC148253">
                                 <div id="M105140PreloadC148253">
-                                    Miau!!!
+                                    
                                 </div>
                                 <iframe style="display: none;" src="<c:url value="WEB-INF/html/saved_resource.html"/>"></iframe>
                             </div>
                            <br>
 
                             <div class="Title Page fa-star">
-                                <h2>Últimos gatitos</h2>
+                                <h2>Últimas series</h2>
                                 <div class="Order">
                                     <a href="https://animeflv.net/#" class="Active">HOY</a>
                                 </div>
