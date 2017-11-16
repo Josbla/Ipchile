@@ -146,7 +146,7 @@
 
 
             <div class="Body">
-                <div class="Container">
+                <div class="Container" style="background-color: #23282B;">
                     <div class="AnflvTl">
                         <h1><strong>FakeFlv</strong> tu fuente de animé online gratis y de IpChile</h1>
                     </div>
@@ -287,70 +287,68 @@
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47184/dragon-ball-super-latino-39" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/13jere.jpg"/>" alt="Dragon Ball Super Latino"></span>
-                                        <span class="Capi">Algo muy poderoso hay aquí</span>
-                                        <strong class="Title">Dragon Ball Neko</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/dragonBallSuper.jpg"/>" alt="Dragon Ball Super Latino"></span>
+                                        <strong class="Title">Dragon Ball Super</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47183/digimon-adventure-tri-21" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/11jere.jpg"/>" alt="Digimon Adventure Tri."></span>
-                                        <span class="Capi">Nivel alta de ternura</span>
-                                        <strong class="Title">Aqui hay ternura</strong>
+                                        <span class="Image"><img src="<c:url value="/resources/img/shamanKing.jpg"/>" alt="Digimon Adventure Tri."></span>
+                                        <strong class="Title">Shaman King</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47181/digimon-adventure-tri-20" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/14jere.jpg"/>" alt="Digimon Adventure Tri."></span>
+                                        <span class="Image"><img src="<c:url value="/resources/img/hamtaro.png"/>" alt="Digimon Adventure Tri."></span>
                                         <span class="Capi">Episodio final</span>
-                                        <strong class="Title">Y para terminar...</strong>
+                                        <strong class="Title">Hamtaro</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47180/digimon-adventure-tri-19" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/1929.jpg"/>" alt="Digimon Adventure Tri."></span>
+                                        <span class="Image"><img src="<c:url value="/resources/img/digimonTri.jpg"/>" alt="Digimon Adventure Tri."></span>
                                         <span class="Capi">Episodio 19</span>
                                         <strong class="Title">Digimon Adventure Tri.</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47179/digimon-adventure-tri-18" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/1929.jpg"/>" alt="Digimon Adventure Tri."></span>
+                                        <span class="Image"><img src="<c:url value="/resources/img/digimonTri.jpg"/>" alt="Digimon Adventure Tri."></span>
                                         <span class="Capi">Episodio 18</span>
                                         <strong class="Title">Digimon Adventure Tri.</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47177/chaos-child-13" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/2670.jpg"/>" alt="ChäoS;Child"></span>
+                                        <span class="Image"><img src="<c:url value="/resources/img/chaosChild.jpg"/>" alt="ChäoS;Child"></span>
                                         <span class="Capi">Episodio 13</span>
                                         <strong class="Title">ChäoS;Child</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47176/konbini-kareshi-12" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/2766.jpg"/>" alt="Konbini Kareshi"></span>
+                                        <span class="Image"><img src="<c:url value="/resources/img/konbini.jpg"/>" alt="Konbini Kareshi"></span>
                                         <span class="Capi">Episodio 12</span>
                                         <strong class="Title">Konbini Kareshi</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47175/gamers-12" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/2787.jpg"/>" alt="Gamers!"></span>
+                                        <span class="Image"><img src="<c:url value="/resources/img/gamers.jpg"/>" alt="Gamers!"></span>
                                         <span class="Capi">Episodio 12</span>
                                         <strong class="Title">Gamers!</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47174/clione-no-akari-12" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/2780.jpg"/>" alt="Clione no Akari"></span>
+                                        <span class="Image"><img src="<c:url value="/resources/img/ClionenoAkari.JPG"/>" alt="Clione no Akari"></span>
                                         <span class="Capi">Episodio 12</span>
                                         <strong class="Title">Clione no Akari</strong>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://animeflv.net/ver/47173/dragon-ball-super-latino-38" class="fa-play">
-                                        <span class="Image"><img src="<c:url value="/resources/img/2793.jpg"/>" alt="Dragon Ball Super Latino"></span>
+                                        <span class="Image"><img src="<c:url value="/resources/img/dragonBallSuper.jpg"/>" alt="Dragon Ball Super Latino"></span>
                                         <span class="Capi">Episodio 38</span>
                                         <strong class="Title">Dragon Ball Super Latino</strong>
                                     </a>
