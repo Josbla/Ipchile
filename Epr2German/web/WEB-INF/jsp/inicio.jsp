@@ -115,7 +115,7 @@
                                         <li><a href="https://animeflv.net/browse">ANIMES</a></li>
                                        
                                         <li class="kudasai"><a target="_blank" href="https://somoskudasai.com/">Noticias</a></li>
-                                        <li class="youtube"><a target="_blank" href="correo.html" >Contacto</a></li>
+                                        <li class="youtube"><a href="http://localhost:8080/olvido" >Contacto</a></li>
                                         
                                     </ul>
                                     <ul class="ListSocial BFixed">
